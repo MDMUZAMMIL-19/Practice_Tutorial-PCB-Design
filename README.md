@@ -15,7 +15,7 @@ This repository hosts circuit designs, schematics, and layout implementations de
 
 ## Featured Toolchains
 
-* Autodesk EAGLE / Fusion 360 Electronics:** Schematic design, multi-layer routing, Design Rule Checking (DRC), and Electrical Rule Checking (ERC).
+* Autodesk EAGLE / Fusion 360 Electronics: Schematic design, multi-layer routing, Design Rule Checking (DRC), and Electrical Rule Checking (ERC).
 * EasyEDA: Rapid prototyping, symbol creation, and integrated footprint management.
 * Gerber Viewers: Layer validation, solder mask inspections, and silk screen verification.
 
