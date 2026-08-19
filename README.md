@@ -1,15 +1,22 @@
-# Practice_Tutorial-Autodesk-Eagle
-This repository contains a collection of PCB design projects that I have completed as part of my learning journey using softwares like Autodesk Eagle, Fusion360 and EasyEDA. These projects are based on various tutorials I followed to learn PCB Design.
+## PCB Design & Prototyping Portfolio
 
-This repository includes the following:
+This repository hosts circuit designs, schematics, and layout implementations developed using **Autodesk EAGLE**, **Autodesk Fusion 360**, and **EasyEDA**. The projects document fundamental and intermediate design techniques, from schematic capture to manufacturing preparation.
 
-Project Folders: Each project has its own folder containing all relevant files.
+---
 
-Schematics: .sch files for schematic diagrams and their Pdf.
+## Repository Contents
 
-Board Layouts: .brd files for PCB layouts and their Pdf.
+* Schematic Capture: Native `.sch` source files and printable `.pdf` reference sheets.
+* PCB Layouts: Board routing files (`.brd`), component placements, and layer stackup visualizations.
+* Manufacturing Outputs: Production-ready **Gerber files** (`RS-274X`) and drill files (`NC Drill / Excellon`).
+* Documentation & BOM: Bill of Materials (`.csv` / `.xlsx`) itemizing part designations, packages, and values.
 
-Gerber Files: Generated Gerber files for manufacturing.
+---
 
-Bill of Materials (BOM): Lists of components used in each project.
+## Featured Toolchains
 
+* Autodesk EAGLE / Fusion 360 Electronics:** Schematic design, multi-layer routing, Design Rule Checking (DRC), and Electrical Rule Checking (ERC).
+* EasyEDA: Rapid prototyping, symbol creation, and integrated footprint management.
+* Gerber Viewers: Layer validation, solder mask inspections, and silk screen verification.
+
+---
